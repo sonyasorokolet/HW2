@@ -1,4 +1,3 @@
-# HW2
 <TEI> 
 <teiHeader> 
 <fileDesc> 
