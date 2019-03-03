@@ -13,7 +13,7 @@
 <particDesc>
 <listPerson type="historical"> 
 <person xml:id="01"> 
-<persName>Маша</persName> 
+<persName>Леандр</persName> 
 </person>
 <person xml:id="02">
 <persName>Иван</persName>
