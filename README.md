@@ -11,13 +11,13 @@
 </fileDesc> 
 </teiHeader> 
 <text> 
-Входи в него всегда ты больше золотыми.
-Старайся мой совет полезный не забыть,
-Ты можешь, о! <persName>Леандр</persName>, всегда счастливым быть».
-По сих речах они ко храму уж приспели,
+Входи в <person xml:id="b"><persName>него</persName></person> всегда <person xml:id="b"><persName>ты</persName></person> больше золотыми.
+Старайся <person xml:id="b"><persName>мой</persName></person> совет полезный не забыть,
+<person xml:id="b"><persName>Ты</persName></person> можешь, о! <persName>Леандр</persName>, всегда счастливым быть».
+По сих речах <person xml:id="b"><persName>они</persName></person> ко храму уж приспели,
 На первых воротах такую надпись зрели:
-«Не сквозь сии врата кто хочет в храм войти,
-Тот тщетною себя надеждою не льсти,
+«Не сквозь сии врата <person xml:id="b"><persName>кто</persName></person> хочет в храм войти,
+<person xml:id="b"><persName>Тот</persName></person> тщетною <person xml:id="b"><persName>себя</persName></person> надеждою не льсти,
 Дабы возмог узреть толь здание прекрасно;
 Во храм лишь сим путем приходят безопасно».
 <persName>Леандр</persName>, прочтя сие, и начал рассуждать,
