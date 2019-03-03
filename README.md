@@ -9,8 +9,20 @@
 <resp>Создала TEI документ, разметила текст, выделив персоналии и места</resp> 
 </respStmt> 
 </fileDesc> 
+<profileDesc> 
+<particDesc>
+<listPerson type="historical"> 
+<person xml:id="01"> 
+<persName>Маша</persName> 
+</person>
+<person xml:id="02">
+<persName>Иван</persName>
+</person>
+</listPerson>
+</particDesc>
+</profileDesc>
 </teiHeader> 
-<text> 
+<text>
 Входи в <person xml:id="b"><persName>него</persName></person> всегда <person xml:id="b"><persName>ты</persName></person> больше золотыми.
 Старайся <person xml:id="b"><persName>мой</persName></person> совет полезный не забыть,
 <person xml:id="b"><persName>Ты</persName></person> можешь, о! <persName>Леандр</persName>, всегда счастливым быть».
@@ -68,9 +80,9 @@
 И выигрыш ее на деле покажу.
 Я был перед рукой, идти мне надлежало:
 Пошел я королем, вот сей игры начало!
-Итак, я отобрал три масти корольми;
-Но кралю лишь мою убили козырьми.
-Потом кто взял игру, пошел с туза бубнова.
+Итак, <person xml:id="b"><persName>я</persName></person> отобрал три масти корольми;
+Но кралю лишь <person xml:id="b"><persName>мою</persName></person> убили козырьми.
+Потом <person xml:id="b"><persName>кто</persName></person> взял игру, пошел с туза бубнова.
 Та масть у игрока случилась и другова;
 Но не было ее лишь боле у меня.
 Четверту получил игру чрез то и я;
@@ -78,21 +90,21 @@
 Затем что уж они остались с козырями.
 В одной руке король, и баста, и маниль,
 В другой семерка, хлап, и краля, и шпадиль, —
-Итак, я выиграл игру, как битву воин.
+Итак, <person xml:id="b"><persName>я</persName></person> выиграл игру, как битву <person xml:id="b"><persName>воин</persName></person>.
 Скажите ж мне, каких я почестей достоин?»
-Сказали все ему: «Коль счастье сберегло,
-Ты выиграл ни с чем, и прав ты как стекло.
-А кто и впредь играть с играми будет сими,
+Сказали все <person xml:id="b"><persName>ему</persName></person>: «Коль счастье сберегло,
+<person xml:id="b"><persName>Ты</persName></person> выиграл ни с чем, и прав <person xml:id="b"><persName>ты</persName></person> как стекло.
+А <person xml:id="b"><persName>кто</persName></person> и впредь играть с играми будет сими,
 Такие по миру находятся нагими».
-Подобных сим <persName>Леандр</persName> судов тут много зрил:
-Иной был обвинен, что он не так ходил,
-С которой подходить ему бы надлежало;
-Иной, что козырял не так иль очень мало.
-И если б описать мне всех здесь игроков,
+Подобных сим <person xml:id="b"><persName>Леандр</persName></person> судов тут много зрил:
+<person xml:id="b"><persName>Иной</persName></person> был обвинен, что <person xml:id="b"><persName>он</persName></person> не так ходил,
+С которой подходить <person xml:id="b"><persName>ему</persName></person> бы надлежало;
+<person xml:id="b"><persName>Иной</persName></person>, что козырял не так иль очень мало.
+И если б описать <person xml:id="b"><persName>мне</persName></person> всех здесь <person xml:id="b"><persName>игроков</persName></person>,
 О! коль бы стоило великих то трудов.
-Но песнь мою теперь я сим лишь скончеваю,
-И музу к будущей на помощь призываю;
-И ежели она устроит лирный глас,
-Потщусь еще, потщусь взойти я на <placeName>Парнас</placeName>.
+Но песнь <person xml:id="b"><persName>мою</persName></person> теперь <person xml:id="b"><persName>я</persName></person> сим лишь скончеваю,
+И <person xml:id="b"><persName>музу</persName></person> к будущей на помощь призываю;
+И ежели <person xml:id="b"><persName>она</persName></person> устроит лирный глас,
+Потщусь еще, потщусь взойти <person xml:id="b"><persName>я</persName></person> на <placeName>Парнас</placeName>.
 </text> 
 </TEI>
