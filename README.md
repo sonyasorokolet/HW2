@@ -15,9 +15,6 @@
 <person xml:id="01"> 
 <persName>Леандр</persName> 
 </person>
-<person xml:id="02">
-<persName>Иван</persName>
-</person>
 </listPerson>
 </particDesc>
 </profileDesc>
