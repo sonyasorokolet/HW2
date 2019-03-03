@@ -26,19 +26,19 @@
 Входи в <person xml:id="b"><persName>него</persName></person> всегда <person xml:id="b"><persName>ты</persName></person> больше золотыми.
 Старайся <person xml:id="b"><persName>мой</persName></person> совет полезный не забыть,
 <person xml:id="b"><persName>Ты</persName></person> можешь, о! <persName>Леандр</persName>, всегда счастливым быть».
-По сих речах <person xml:id="b"><persName>они</persName></person> ко храму уж приспели,
-На первых воротах такую надпись зрели:
-«Не сквозь сии врата <person xml:id="b"><persName>кто</persName></person> хочет в храм войти,
+По сих речах <person xml:id="b"><persName>они</persName></person> ко <placeName>храму</placeName> уж приспели,
+На первых <placeName>воротах</placeName> такую надпись зрели:
+«Не сквозь сии <placeName>врата</placeName> <person xml:id="b"><persName>кто</persName></person> хочет в <placeName>храм</placeName> войти,
 <person xml:id="b"><persName>Тот</persName></person> тщетною <person xml:id="b"><persName>себя</persName></person> надеждою не льсти,
 Дабы возмог узреть толь здание прекрасно;
-Во храм лишь сим путем приходят безопасно».
+Во <placeName>храм</placeName> лишь сим путем приходят безопасно».
 <person xml:id="b"><persName>Леандр</persName></person>, прочтя сие, и начал рассуждать,
 Чго если станет впредь воздержней играть,
 То может быть в игре счастливей, нежель прежде;
 И входит <person xml:id="b"><persName>он</persName></person> во храм, оставшись в сей надежде.
-И се открылася завеса вдалеке,
+И се открылася завеса <placeName>вдалеке</placeName>,
 Услышался и шум, подобный быть реке,
-Которая с горы в стремнину упадает,
+  Которая с <placeName>горыс</placeName> в <placeName>стремнину</placeName> упадает,
 Беседующих речь что шумом заглушает.
 Сей шум происходил от спору игроков,
 Которые, сидя́ вкруг множества столов,
